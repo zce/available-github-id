@@ -1,0 +1,11 @@
+{
+  "name": "available-github-id",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/zce/available-github-id.git",
+  "author": "iceStone <ice@wedn.net> (https://github.com/zce)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1"
+  }
+}
